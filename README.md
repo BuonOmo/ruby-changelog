@@ -3,7 +3,7 @@
 ## Intro
 
 * See full version of this project on https://rubychangelog.com/
-* This page was last updated on 2021-12-18 via `rake md` task
+* This page was last updated on 2022-04-12 via `rake md` task
 
 ## Ruby changelog
 
